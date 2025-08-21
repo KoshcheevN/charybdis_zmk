@@ -20,15 +20,15 @@
 include:
   # QWERTY BT
   - board: nice_nano
-    shield: charybdis_4х6_left
+    shield: charybdis_left
     keymap: qwerty
     format: bt
-    artifact-name: charybdis_4х6_left
+    artifact-name: charybdis_left
   - board: nice_nano
-    shield: charybdis_4х6_right
+    shield: charybdis_right
     keymap: qwerty
     format: bt
-    artifact-name: charybdis_4х6_right
+    artifact-name: charybdis_right
     snippet: studio-rpc-usb-uart
 
   # # Colemak DH BT
